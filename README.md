@@ -5,10 +5,13 @@
 
 ### Set Up
 
+##### Install dependencies
 ```code
-* Install dependencies
 npm install
-* Start the server
+```
+
+##### Start the server
+```code
 node app.js or nodemon app.js
 ```
 
